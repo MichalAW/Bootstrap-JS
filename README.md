@@ -1,2 +1,3 @@
-# Bootstrap-Carousel
-Like in title
+# Bootstrap-JS
+
+0.8.Bootstrap-JS test of modals, atributes etc
